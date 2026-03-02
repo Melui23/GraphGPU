@@ -352,6 +352,31 @@ body {
     color: var(--accent);
     flex-shrink: 0;
   }
+
+  .github-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    color: inherit; 
+    background: rgba(255, 255, 255, 0.1); // Light tint to make it look clickable
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background 0.2s, transform 0.1s;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.2);
+      transform: translateY(-1px);
+    }
+
+    &:active {
+      transform: translateY(0);
+    }
+
+    i {
+      font-size: 1.1em;
+    }
+  }
 }
 
 // ============================================================
