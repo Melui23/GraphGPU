@@ -5,7 +5,7 @@
 import { GraphGPU } from 'graphgpu';
 import type { Node, NodeId } from 'graphgpu';
 
-import { createApp, ref, reactive, computed, onMounted } from 'vue'
+const { createApp, ref, reactive, computed, onMounted } = Vue;
 
 // ── Types ──
 
